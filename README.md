@@ -1,2 +1,2 @@
-# Softuniada-Competition
+# Softuniada-Hackathon
 Annual programming competition 'Softuniada'
